@@ -1,0 +1,1 @@
+public enum AchivmentsEnum {none,coins1,coins2,boss1,boss2,boss3,click1,click2,click3,} // Генерируется при нажатие по кнопке внутри AchivmentsDataSO
